@@ -1,0 +1,19 @@
+.contact-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-container h6 {
+    color: orange;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.contact-container p {
+    margin: 0;
+}
+
+.contact-container button {
+    margin-top: 15px;
+}
